@@ -6,3 +6,8 @@
  <br>
  <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-behzkan&color=green" />
 </p>
+
+<p align="center">
+ <img width="600" src="https://github.com/BaggerFast/BaggerFast/blob/main/assets/github-snake.svg" alt="snake"/>
+</p>
+
