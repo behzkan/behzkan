@@ -1,4 +1,4 @@
-### 👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 behzkan
+### [👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Behzkan](https://github.com/behzkan/)
 
 <!--
 **behzkan/behzkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
