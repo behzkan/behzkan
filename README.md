@@ -11,6 +11,7 @@
  <img width="600" src="assets/github-s.svg" alt="snake"/>
 </p>
 
+## [🖥My projects](markdown/main.md)  
 
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
@@ -23,4 +24,4 @@
   </p>
 </details>
 
-## [🖥My projects](markdown/main.md)  
+
