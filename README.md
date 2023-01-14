@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
- <img width="600" src="[https://github.com/BaggerFast/BaggerFast/blob/main/assets/github-snake.svg](https://github.com/behzkan/behzkan-p/blob/main/assets/github-s.svg" alt="snake"/>
+ <img width="600" src="https://github.com/behzkan/behzkan-p/blob/main/assets/github-s.svg" alt="snake"/>
 </p>
 
+assets/github-s.svg
