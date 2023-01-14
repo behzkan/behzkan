@@ -19,6 +19,6 @@
    <br>
    <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=behzkan&show_icons=true&theme=dark" />
    <br>
-   <img src="https://metrics.lecoq.io/behzkan" />
+   <img src="https://metrics.lecoq.io/insights/behzkan" />
   </p>
 </details>
