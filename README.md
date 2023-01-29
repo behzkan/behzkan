@@ -1,5 +1,5 @@
 ### @behzkan
-<h3 align="center">Student Full-Stack Developer</h3>
+<h3 align="center">junior Backend Developer</h3>
 <p align="center">
  <a href="https://tlgg.ru/behzkan1"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
  <br>
