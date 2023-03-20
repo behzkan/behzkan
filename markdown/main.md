@@ -1,6 +1,6 @@
 # My projects
 
-- [**1С**](1C.md)
+- [**1С**](https://github.com/behzkan/1c-practice)
 - [**Python**](python.md)
 --------
 
