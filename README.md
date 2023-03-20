@@ -1,5 +1,5 @@
 ### @behzkan
-<h3 align="center">JBD</h3>
+<h3 align="center">Junior 1c Developer</h3>
 <p align="center">
  <a href="https://tlgg.ru/behzkan1"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
  <br>
