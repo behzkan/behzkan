@@ -1,5 +1,5 @@
 ### @behzkan
-<h3 align="center">Junior 1c Developer</h3>
+<h3 align="center">Джуниор 1c разработчик</h3>
 <p align="center">
  <a href="https://tlgg.ru/behzkan1"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
  <br>
@@ -10,7 +10,7 @@
  <img width="600" src="assets/github-s.svg" alt="snake"/>
 </p>
 
-## [🖥My projects](markdown/main.md)  
+## [🖥 Мои проекты](markdown/main.md)  
 
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
