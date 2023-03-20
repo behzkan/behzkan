@@ -1,9 +1,6 @@
 # My projects
 
-- [**Php**](php.md)
-- [**Js**](js.md)
-- [**Laravel**](laravel.md)
-- [**Vue**](vue.md)
+- [**1С**](1C.md)
 - [**Python**](python.md)
 --------
 
